@@ -96,19 +96,6 @@
 - Strong in MLOps, CI/CD, deployment, and system reliability
 - Experienced with end-to-end ML pipelines on AWS
 
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/pranaybabu42">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pranaybabu42&cache_seconds=7200&layout=compact&theme=prussian&border_radius=10" alt="pranaybabu42's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=pranaybabu42&theme=prussian&hide_border=true&cache_seconds=86400" alt="pranaybabu42's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=pranaybabu42&theme=prussian&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Thalluri Pranay Babu's GitHub Trophies" />
-</p>
-
-
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
