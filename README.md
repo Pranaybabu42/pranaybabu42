@@ -5,6 +5,9 @@
 </p>
 
 
+<h3 align="center">
+  <b>Machine Learning Engineer @ Endava</b>
+</h3>
 
 ## 📌 About Me
 - Machine Learning Engineer specializing in advanced model development, Generative AI, and production-scale deployment on AWS. I design, train, fine-tune, and operationalize machine learning and large language model–based systems with a strong emphasis on reliability, automation, and scalability.My work spans end-to-end ML system design, including data pipelines, model architecture and optimization, agentic AI systems, conversational AI, and intelligent automation platforms. I build and deploy these systems using robust MLOps practices, including CI/CD, monitoring, testing, and lifecycle management.I focus on architecting secure, maintainable, and high-performance ML solutions that bridge cutting-edge AI capabilities with production-grade engineering standards.
