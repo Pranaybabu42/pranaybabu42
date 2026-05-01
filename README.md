@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Programming%20isn%E2%80%99t%20about%20what%20you%20know;it%E2%80%99s%20about%20what%20you%20can%20figure%20out." alt="Typing introduction" />
 </p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=pranaybabu42">
-    <img src="https://komarev.com/ghpvc/?username=pranaybabu42&label=Profile%20views&color=00FFFF&style=flat-square" alt="pranaybabu42's profile views" />
-  </a>
-</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
@@ -91,11 +86,6 @@
 
 </p>
 
-<p align="center">
-  <a href="https://github.com/pranaybabu42">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pranaybabu42&langs_count=8&layout=compact&theme=prussian&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
 
 ## 🔗 Connect with Me
 <p align="center">
