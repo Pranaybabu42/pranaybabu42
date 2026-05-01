@@ -11,6 +11,86 @@
 - Machine Learning Engineer specializing in advanced model development, Generative AI, and production-scale deployment on AWS. I design, train, fine-tune, and operationalize machine learning and large language model–based systems with a strong emphasis on reliability, automation, and scalability.My work spans end-to-end ML system design, including data pipelines, model architecture and optimization, agentic AI systems, conversational AI, and intelligent automation platforms. I build and deploy these systems using robust MLOps practices, including CI/CD, monitoring, testing, and lifecycle management.I focus on architecting secure, maintainable, and high-performance ML solutions that bridge cutting-edge AI capabilities with production-grade engineering standards.
 
 
+<h2>💼 Experience</h2>
+<h4> Total Years of Experience : 1 Year 10 Months</h4>
+<table>
+
+  <tr>
+    <td width="30px" align="center">🔵</td>
+    <td>
+      <b>Machine Learning Engineer</b>  
+      <br><i>Endava · Full-time</i>  
+      <br><sub>Jan 2026 – Present · India</sub>
+      <br>
+      <sub>
+      • Working on production-scale AI/ML systems and LLM applications<br>
+      • Designing agentic AI workflows and intelligent automation systems<br>
+      • Focus on MLOps, scalability, and cloud deployment
+      </sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">│</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td align="center">🔵</td>
+    <td>
+      <b>Junior Machine Learning Engineer</b>  
+      <br><i>Endava</i>  
+      <br><sub>Sep 2025 – Dec 2025 · 4 mos · India</sub>
+      <br>
+      <sub>
+      • Contributed to ML model development and deployment workflows<br>
+      • Worked on data pipelines and optimization of ML systems
+      </sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">│</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td align="center">🔵</td>
+    <td>
+      <b>Junior Developer</b>  
+      <br><i>Endava (formerly GalaxE.Solutions)</i>  
+      <br><sub>Aug 2024 – Sep 2025 · 1 yr 2 mos · Bengaluru, India · On-site</sub>
+      <br>
+      <sub>
+      • Worked on backend systems using Java and Spring Boot<br>
+      • Built and maintained enterprise-grade applications<br>
+      • Collaborated in full-stack development workflows
+      </sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">│</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td align="center">⚪</td>
+    <td>
+      <b>Full Stack Intern</b>  
+      <br><i>GalaxE.Solutions · Internship</i>  
+      <br><sub>Oct 2023 – Feb 2024 · 5 mos · Bengaluru, India · Hybrid</sub>
+      <br>
+      <sub>
+      • Developed full-stack features and backend APIs<br>
+      • Gained hands-on experience in enterprise development practices<br>
+      • Built foundation in scalable application design
+      </sub>
+    </td>
+  </tr>
+
+</table>
+
 ## 🧠 My Focus Areas
 - I build production-grade AI systems, not just models
 - Focus on LLMs, Agentic AI, and scalable ML systems
